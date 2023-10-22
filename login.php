@@ -41,7 +41,7 @@
                         </div>
                         <input class="form-input" type="password" required name="username" id="username" placeholder="Password">
                     </div>
-                    <button type=button class="submit">Next</button>
+                    <button type='submit' class="submit">Next</button>
 
                 </form>
             </div>
